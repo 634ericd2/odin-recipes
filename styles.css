@@ -1,0 +1,16 @@
+* {
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#recipes{
+    color: darkblue;
+    font-size: 24px;
+
+}
+
+#hometitle {
+    color:darkblue;
+    font-size: 60px;
+    text-align: center;
+}
