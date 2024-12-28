@@ -1,16 +1,36 @@
 * {
-    background-color: blanchedalmond;
+    background-color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-#recipes{
-    color: darkblue;
-    font-size: 24px;
+#hometitle {
+    color: grey;
+    font-size: 60px;
+    text-align: left;
+    margin-left: 24px;
+    margin-top: 24px;
+}
+
+div {
+    padding: 30px;
+    margin: 5px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.burger {
+    background-color: #548CA8;
+    color: whitesmoke;
+}
+
+.hotdog{
+    background-color: #476072;
+    color: whitesmoke;
 
 }
 
-#hometitle {
-    color:darkblue;
-    font-size: 60px;
-    text-align: center;
+.pasta{
+    background-color: #334257;
+    color: whitesmoke;
+
 }
